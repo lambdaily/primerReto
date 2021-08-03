@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
+@import url('./normalize.css');
+
+
+*{
+    color: #000;
+    background: #fff;
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+
+}
+
+.home {
+    width: 90%;
+    margin: auto;
+
+
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+ul {
+    margin-bottom: 30px;
+}
+
+
+  
