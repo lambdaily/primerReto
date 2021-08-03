@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/primerReto/static/css/main.b71dd278.chunk.css",
+    "main.js": "/primerReto/static/js/main.edfd7578.chunk.js",
+    "main.js.map": "/primerReto/static/js/main.edfd7578.chunk.js.map",
+    "runtime-main.js": "/primerReto/static/js/runtime-main.4e5ef4dd.js",
+    "runtime-main.js.map": "/primerReto/static/js/runtime-main.4e5ef4dd.js.map",
+    "static/js/2.bc0b56ce.chunk.js": "/primerReto/static/js/2.bc0b56ce.chunk.js",
+    "static/js/2.bc0b56ce.chunk.js.map": "/primerReto/static/js/2.bc0b56ce.chunk.js.map",
+    "index.html": "/primerReto/index.html",
+    "static/css/main.b71dd278.chunk.css.map": "/primerReto/static/css/main.b71dd278.chunk.css.map",
+    "static/js/2.bc0b56ce.chunk.js.LICENSE.txt": "/primerReto/static/js/2.bc0b56ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e5ef4dd.js",
+    "static/js/2.bc0b56ce.chunk.js",
+    "static/css/main.b71dd278.chunk.css",
+    "static/js/main.edfd7578.chunk.js"
+  ]
+}
